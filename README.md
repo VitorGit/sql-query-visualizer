@@ -1,1 +1,1 @@
-# sql-query-vizualizer
+# sql-query-visualizer
